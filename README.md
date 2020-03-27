@@ -1,2 +1,2 @@
 # scoop-bucket
-Bucket for Scoop Releases
+Scoop bucket for Rakuten Open Source apps
