@@ -1,0 +1,22 @@
+{
+    "version": "1.4.6",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/rakutentech/jwkgen/releases/download/v1.4.6/jwkgen-windows-x86.zip",
+            "bin": [
+                "jwkgen.exe"
+            ],
+            "hash": "678d1e9d0dcb48c4e23dcc92c0f1cf0de715282bcaa7dae879d5d3fcde46e028"
+        },
+        "64bit": {
+            "url": "https://github.com/rakutentech/jwkgen/releases/download/v1.4.6/jwkgen-windows-x86_64.zip",
+            "bin": [
+                "jwkgen.exe"
+            ],
+            "hash": "86c54ce73c850124e176fd0f18af6492aa4793f2422aa35ab2f8984394b7c54c"
+        }
+    },
+    "homepage": "https://github.com/rakutentech/jwkgen",
+    "license": "MIT",
+    "description": "Small command-line tool that generates asymmetric JSON Web Keys for the\nfollowing algorithms and curves\n"
+}
